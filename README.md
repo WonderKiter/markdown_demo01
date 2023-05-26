@@ -19,3 +19,5 @@
 var = 1
 console.log(var)
 ```
+我的网站是：[https://www.cnblogs.com/wk945/]
+![我的头像](images.bmp)
